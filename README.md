@@ -25,6 +25,7 @@ The project follows a typical MVC (Model-View-Controller) structure:
   - `src/main/java`: Contains Java source code for the backend API.
   - `src/main/resources`: Configuration files, application properties, and static resources.
   - `pom.xml`: Maven project configuration file specifying dependencies.
+  - mvn -v: export JAVA_HOME and PATH
 
 - **Frontend (React.js)**:
   - `src/components`: React components for the UI.
